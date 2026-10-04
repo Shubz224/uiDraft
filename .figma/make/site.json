@@ -1,0 +1,10 @@
+{
+  "description": "Connect landlords and tenants directly for real estate rentals, offering a streamlined search, scheduling visits, and secure communication without brokers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
